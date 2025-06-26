@@ -1,0 +1,1 @@
+## Temporary space to store the aggregated counts by practice by illness by year by month
