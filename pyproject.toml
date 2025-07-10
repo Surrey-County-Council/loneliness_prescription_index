@@ -5,7 +5,32 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "aiohttp>=3.12.13",
     "geopandas>=1.1.0",
+    "loguru>=0.7.3",
     "matplotlib>=3.10.3",
-    "pandas>=2.3.0",
+    "polars>=1.31.0",
+    "pydantic>=2.11.7",
+    "pyyaml>=6.0.2",
+    "requests>=2.32.4",
+    "sqlmodel>=0.0.24",
 ]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+    "loneliness-prescription-index",
+    "mypy>=1.16.1",
+    "pandas-stubs>=2.2.3.250308",
+    "ruff>=0.12.1",
+    "types-geopandas>=1.0.1.20250601",
+    "types-openpyxl>=3.1.5.20250602",
+    "types-python-dateutil>=2.9.0.20250516",
+    "types-pyyaml>=6.0.12.20250516",
+]
+
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+

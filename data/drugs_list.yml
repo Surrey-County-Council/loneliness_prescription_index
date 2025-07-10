@@ -1,0 +1,110 @@
+﻿illness: Depression
+loneliness_indicator: true
+medications:
+    - name: Fluoxetine
+    - name: Citalopram
+    - name: Paroxetine
+    - name: Sertraline
+    - name: Dapoxetine
+    - name: Escitalopram
+    - name: Fluvoxamine
+    - name: Duloxetine
+    - name: Venlafaxine
+    - name: Mirtazapine
+    - name: Amitriptyline
+    - name: Clomipramine
+    - name: Imipramine
+    - name: Lofepramine
+    - name: Nortriptyline
+    - name: Prozac
+    - name: Cipramil
+    - name: Seroxat
+    - name: Lustral
+    - name: Priligy
+    - name: Cipralex
+    - name: Faverin
+    - name: Cymbalta
+    - name: Efexor
+    - name: Zispin
+    - name: Tryptizol
+    - name: Anafranil
+    - name: Tofranil
+    - name: Gamanil
+    - name: Allegron
+    - name: Yentreve
+    - name: Oxactin
+---
+illness: Alzheimers
+loneliness_indicator: true
+medications:
+    - name: Donepezil
+    - name: Rivastigmine
+    - name: Galantamine
+    - name: Aricept
+    - name: Exelon
+    - name: Reminyl
+---
+illness: Blood Pressure
+loneliness_indicator: true
+medications:
+    - name: Enalapril
+    - name: Lisinopril
+    - name: Perindopril
+    - name: Ramipril
+    - name: Candesartan
+    - name: Irbesartan 
+    - name: Losartan 
+    - name: Valsartan 
+    - name: Olmesartan
+    - name: Amlodipine
+    - name: Felodipine 
+    - name: Nifedipine
+---
+illness: Hypertension
+medications:
+    - name: Olmesartan
+    - name: Verapamil
+    - name: Perindopril
+    - name: Losartan
+    - name: Nifedipine
+    - name: Enalapril
+    - name: Candesarta
+    - name: Amlodipine
+    - name: Lisinopril
+    - name: Irbesartan
+    - name: Felodipine
+    - name: Ramipril
+    - name: Valsartan
+    - name: Diltiazem
+---
+illness: Diabetes
+medications:
+    - name: Metformin
+---
+illness: Cardiovascular disease
+medications:
+    - name: Atorvastatin
+    - name: Fluvastatin
+    - name: Pravastatin
+    - name: Rosuvastatin
+    - name: Simvastatin
+    - name: Lipitor
+    - name: Lescol
+    - name: Lipostat
+    - name: Crestor
+    - name: Zocor
+---
+illness: insomnia
+loneliness_indicator: true
+medications:
+    - name: Zopiclone
+---
+illness: addiction
+medications:
+    - name: Methadone
+---
+illness: social anxiety
+loneliness_indicator: true
+medications:
+    - name: Escitalopram
+    - name: Sertraline
