@@ -1,58 +1,107 @@
 """
-the DrugslisthealthdataJG1.CSV hosted file referenced on https://github.com/datasciencecampus/loneliness
-is a list of illensses and medicines, each associated with loneliness
-unfortunately the url is invalid when visited
+the drugs_list.yml file can be updated by the user and stored in version control
+
+this file represents a list of illnesses and the medications that are commonly prescribed
+
+the illnesses can each have tags associating them with groups, forexample the loneliness tag that indicates an illness,
+and therefore all associated medications for that illness are associated with loneliness
 """
 
-from typing import Iterable
-import pandas as pd
+from pathlib import Path
+from typing import Annotated, Never, overload
+from pydantic import AfterValidator, BaseModel, RootModel, validate_call
+from pydantic_yaml import parse_yaml_file_as, to_yaml_file
+
 from loneliness_prescription_index.config import DATA_DIR
 
-
-PATH = DATA_DIR / "DrugslisthealthdataJG1.csv"
-DTYPE = {"illness": pd.StringDtype, "medication": pd.StringDtype}
-NAMES = list(DTYPE.keys())
+TitleCaseStr = Annotated[str, AfterValidator(str.title)]
 
 
-def read_csv_medication_list() -> pd.DataFrame:
-    return pd.read_csv(PATH, names=NAMES, dtype=DTYPE)
-
-def read_yaml_
+class Medication(BaseModel, frozen=True):
+    name: TitleCaseStr
 
 
-def create_illness_lookup(include_loneliness: bool = False) -> dict[str, str]:
-    """Generate dict of illness: search regex"""
+class Illness(BaseModel, frozen=True):
+    illness: TitleCaseStr
+    tags: list[TitleCaseStr]
+    medications: list[Medication]
 
-    lookup_df = read_csv_medication_list()
 
-    def medications_for_illness(illness: str) -> Iterable[str]:
-        return (
-            lookup_df[lookup_df["illness"] == illness]["medication"]
-            .astype(str)
-            .__iter__()
-        )
+class IllnessConfig(RootModel[dict[TitleCaseStr, Illness]], frozen=True):
+    """validation for the medication list.
 
-    illnesses: Iterable[str] = (
-        lookup_df["illness"].astype(str).drop_duplicates().__iter__()
-    )
+    Will ensure all strings are 'Title Case' thereby matching the 'chemical_substance_bnf_descr' field in the prescriptions api
 
-    lookup = {
-        illness_name: "|".join(medications_for_illness(illness_name))
-        for illness_name in illnesses
-    }
-    if include_loneliness:
-        loneliness: str = "|".join(
-            lookup_df["medication"].astype(str).drop_duplicates().__iter__()
-        )
-        lookup["loneliness"] = loneliness
-    return lookup
+    loads and validates the drugs_list.yml file, or alternatively a different user specified file provided"""
 
-def create_loneliness_lookup():
-    lookup_df = read_csv_medication_list()
-    return "|".join(
-            lookup_df["medication"].astype(str).drop_duplicates().__iter__()
-        )
+    @classmethod
+    def load(cls, path: str | Path = DATA_DIR / "drugs_list.yml"):
+        return parse_yaml_file_as(IllnessConfig, path)
+
+    def save(self, path: str | Path = DATA_DIR / "drugs_list.yml"):
+        return to_yaml_file(path, self)
+
+    @property
+    def all_tags(self):
+        return {tag for illness in self.root.values() for tag in illness.tags}
+
+    @property
+    def all_illnesses(self):
+        return {x for x in self.root}
+
+    @overload
+    def get_medications(self, *, tag: TitleCaseStr, illness: TitleCaseStr) -> Never: ...
+
+    @overload
+    def get_medications(
+        self, *, tag: TitleCaseStr, illness: None = None
+    ) -> set[Medication]: ...
+
+    @overload
+    def get_medications(
+        self, *, tag: None = None, illness: TitleCaseStr
+    ) -> set[Medication]: ...
+
+    @overload
+    def get_medications(
+        self, *, tag: None = None, illness: None = None
+    ) -> set[Medication]: ...
+
+    @validate_call
+    def get_medications(
+        self, tag: TitleCaseStr | None = None, illness: TitleCaseStr | None = None
+    ) -> set[Medication]:
+        """gets the medications in the yaml file.
+
+        optonally the user can provide either a tag or an illness to use as a filter to get all the medications associated with that value
+
+        values for tag and illenss are transformed to title case automatically
+
+        Medications are used to extract a name or file name associated with a group"""
+        match (tag, illness):
+            case (None, None):
+                med_set = {
+                    medication
+                    for item in self.root.values()
+                    for medication in item.medications
+                }
+            case (t, None):
+                med_set = {
+                    medication
+                    for item in self.root.values()
+                    for medication in item.medications
+                    if t in item.tags
+                }
+            case (None, i):
+                med_set = set(self.root[i].medications)
+            case (t, i):
+                raise ValueError("cannot set tag and illness at the same time")
+        return med_set
 
 
 if __name__ == "__main__":
-    print(create_illness_lookup())
+    # integration tests to validate the file exists, is formatted correctly, and can extract medications based on illness or tag
+    illness_list = IllnessConfig.load()
+    print(illness_list)
+    print(illness_list.get_medications(illness="social anxiety"))
+    print(illness_list.get_medications(tag="Loneliness"))

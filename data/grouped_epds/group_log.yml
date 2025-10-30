@@ -1,0 +1,216 @@
+EPD_202301:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T19:40:35.656316Z'
+  name: EPD_202301
+  record_type: grouped_epds
+  update_required: false
+EPD_202302:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T19:41:25.091830Z'
+  name: EPD_202302
+  record_type: grouped_epds
+  update_required: false
+EPD_202303:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T19:42:27.135508Z'
+  name: EPD_202303
+  record_type: grouped_epds
+  update_required: false
+EPD_202304:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T19:43:16.145410Z'
+  name: EPD_202304
+  record_type: grouped_epds
+  update_required: false
+EPD_202305:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T19:44:10.035275Z'
+  name: EPD_202305
+  record_type: grouped_epds
+  update_required: false
+EPD_202306:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T19:45:09.219257Z'
+  name: EPD_202306
+  record_type: grouped_epds
+  update_required: false
+EPD_202307:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T19:46:00.607089Z'
+  name: EPD_202307
+  record_type: grouped_epds
+  update_required: false
+EPD_202308:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T19:46:51.030648Z'
+  name: EPD_202308
+  record_type: grouped_epds
+  update_required: false
+EPD_202309:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T19:47:44.272327Z'
+  name: EPD_202309
+  record_type: grouped_epds
+  update_required: false
+EPD_202310:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T19:48:37.396962Z'
+  name: EPD_202310
+  record_type: grouped_epds
+  update_required: false
+EPD_202311:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T19:49:30.980278Z'
+  name: EPD_202311
+  record_type: grouped_epds
+  update_required: false
+EPD_202312:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T19:50:24.861295Z'
+  name: EPD_202312
+  record_type: grouped_epds
+  update_required: false
+EPD_202401:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T18:14:58.443669Z'
+  name: EPD_202401
+  record_type: grouped_epds
+  update_required: false
+EPD_202402:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T18:15:48.551533Z'
+  name: EPD_202402
+  record_type: grouped_epds
+  update_required: false
+EPD_202403:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T18:16:40.582210Z'
+  name: EPD_202403
+  record_type: grouped_epds
+  update_required: false
+EPD_202404:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T18:17:32.697572Z'
+  name: EPD_202404
+  record_type: grouped_epds
+  update_required: false
+EPD_202405:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T18:18:25.381450Z'
+  name: EPD_202405
+  record_type: grouped_epds
+  update_required: false
+EPD_202406:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T18:19:17.883604Z'
+  name: EPD_202406
+  record_type: grouped_epds
+  update_required: false
+EPD_202407:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T18:20:09.378215Z'
+  name: EPD_202407
+  record_type: grouped_epds
+  update_required: false
+EPD_202408:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T18:21:00.806629Z'
+  name: EPD_202408
+  record_type: grouped_epds
+  update_required: false
+EPD_202409:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T18:21:50.892075Z'
+  name: EPD_202409
+  record_type: grouped_epds
+  update_required: false
+EPD_202410:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T18:22:41.184221Z'
+  name: EPD_202410
+  record_type: grouped_epds
+  update_required: false
+EPD_202411:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T18:23:30.288000Z'
+  name: EPD_202411
+  record_type: grouped_epds
+  update_required: false
+EPD_202412:
+  group_method:
+    aggregation_type: ITEMS
+    medication_to_use: CHEMICAL_SUBSTANCE_BNF_DESCR
+    name: items_by_prescription
+  latest_process_date: '2025-10-30T18:24:19.464481Z'
+  name: EPD_202412
+  record_type: grouped_epds
+  update_required: false

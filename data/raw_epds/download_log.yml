@@ -1,0 +1,216 @@
+EPD_202301:
+  latest_download_date: '2025-10-30T19:37:29.934350Z'
+  name: EPD_202301
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/352fad86-d416-4076-aa2c-1e73d42f51cf/download/epd_202301.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202301.ZIP?response-content-disposition=filename%3DEPD_202301.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251030%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251030T193359Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9dbc550d98d64561cf98963bfbb04ab584989b2aedc56c3b8c767ad06ce127d3
+EPD_202302:
+  latest_download_date: '2025-10-30T19:37:29.726059Z'
+  name: EPD_202302
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/04f14db1-d2df-48be-b5e6-3c9983f5c6ec/download/epd_202302.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202302.ZIP?response-content-disposition=filename%3DEPD_202302.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251030%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251030T193359Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c088f45b8eb0eb200c34d7310b1447aa13a95efa9c5625cf161a306cd4545acd
+EPD_202303:
+  latest_download_date: '2025-10-30T19:37:15.377432Z'
+  name: EPD_202303
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/eea10a5b-487d-4132-92e8-34bd0fe4e23e/download/epd_202303.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202303.ZIP?response-content-disposition=filename%3DEPD_202303.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251030%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251030T193359Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4d51953e35ba9df3d37ec7b48df889d6a5d473d592157ac26b5d51fcf3ebae83
+EPD_202304:
+  latest_download_date: '2025-10-30T19:37:15.602873Z'
+  name: EPD_202304
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/5f25cd7e-bcb9-47a2-a850-738da1f08c40/download/epd_202304.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202304.ZIP?response-content-disposition=filename%3DEPD_202304.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251030%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251030T193359Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=217a08c98714c6385dd9d4debd02dad3bc823e511f9b5aaad660e8a937991885
+EPD_202305:
+  latest_download_date: '2025-10-30T19:37:26.042618Z'
+  name: EPD_202305
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/8e94ff59-aaa6-4b55-86e0-f9148aeb56e9/download/epd_202305.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202305.ZIP?response-content-disposition=filename%3DEPD_202305.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251030%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251030T193359Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bf9954688af73c29a11c07efe3c98a43e0fdd80752c536d7461602eab31f5aff
+EPD_202306:
+  latest_download_date: '2025-10-30T19:37:22.319947Z'
+  name: EPD_202306
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/23b8ee41-4769-4dbe-afe0-383fbe432784/download/epd_202306.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202306.ZIP?response-content-disposition=filename%3DEPD_202306.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251030%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251030T193359Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=73e11ffdb06e8d7d97377e03741e905ce75a4215b3e751b114fca428f4cceca6
+EPD_202307:
+  latest_download_date: '2025-10-30T19:37:29.525728Z'
+  name: EPD_202307
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/97c26729-8ca2-4494-a05b-285c72970205/download/epd_202307.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202307.ZIP?response-content-disposition=filename%3DEPD_202307.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251030%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251030T193359Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9fced1fed43fa9f7647907ac2dc90bc9874b7a35c23637f7bc33f242d92b9699
+EPD_202308:
+  latest_download_date: '2025-10-30T19:37:31.737562Z'
+  name: EPD_202308
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/e08039ad-5a8e-40c1-82e8-415c274f43ef/download/epd_202308.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202308.ZIP?response-content-disposition=filename%3DEPD_202308.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251030%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251030T193359Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8bd80bfd3fd63c3983b5125ca6ae8ed36472558308db03cad33f856bc8a0c0fd
+EPD_202309:
+  latest_download_date: '2025-10-30T19:37:10.817645Z'
+  name: EPD_202309
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/23212687-0763-4dc8-86bb-d35f52301ebf/download/epd_202309.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202309.ZIP?response-content-disposition=filename%3DEPD_202309.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251030%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251030T193359Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=647b051b2af19e75fb6912820ecd0d9f880f831ef99b654a12657424f5debc5b
+EPD_202310:
+  latest_download_date: '2025-10-30T19:37:17.633520Z'
+  name: EPD_202310
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/ee2035f7-14b4-451a-b267-ce2a6382187d/download/epd_202310.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202310.ZIP?response-content-disposition=filename%3DEPD_202310.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251030%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251030T193359Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5729571a4186c206cd9da6506cdeceeac6e613991e626f937b0a0625b5af8966
+EPD_202311:
+  latest_download_date: '2025-10-30T19:37:27.431018Z'
+  name: EPD_202311
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/6fe3818a-bff7-43d6-8ce5-655c3104f262/download/epd_202311.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202311.ZIP?response-content-disposition=filename%3DEPD_202311.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251030%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251030T193359Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=aa8d24a4757b9d769622ca669bd918608c48404d4d1a4f1bb6f45064298cd35d
+EPD_202312:
+  latest_download_date: '2025-10-30T19:37:29.417895Z'
+  name: EPD_202312
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/72096e11-fbfc-4565-ae5e-16993619a683/download/epd_202312.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202312.ZIP?response-content-disposition=filename%3DEPD_202312.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251030%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251030T193359Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bbaadc9c9e00f2ec18ced32127401a9c9dddf9c067f0fb4f1b3a71976e097c2b
+EPD_202401:
+  latest_download_date: '2025-10-28T18:33:10.248721Z'
+  name: EPD_202401
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/fe7c75f9-7ac6-4d03-8941-74f596db4a5a/download/epd_202401.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202401.ZIP?response-content-disposition=filename%3DEPD_202401.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251028%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251028T182951Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a0df4bb6f8748bdfaa4cdd754c5ea5d46f4d49136f0446f4305f3128fc092914
+EPD_202402:
+  latest_download_date: '2025-10-28T18:33:09.895086Z'
+  name: EPD_202402
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/44326448-3649-4a90-b849-21e1aa40480e/download/epd_202402.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202402.zip?response-content-disposition=filename%3DEPD_202402.zip&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251028%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251028T182951Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0b0a9da0f4a7a75fa0352e10ac39eb63062e5ecd7e107143124d8172a169c684
+EPD_202403:
+  latest_download_date: '2025-10-28T18:33:04.809399Z'
+  name: EPD_202403
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/d047e02f-1440-45b9-9bd8-94cba6452c01/download/epd_202403.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202403.ZIP?response-content-disposition=filename%3DEPD_202403.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251028%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251028T182951Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7e51303b45a949d843f510c3001efa9e41849e518d049fe7babdeeba013973fb
+EPD_202404:
+  latest_download_date: '2025-10-28T18:33:03.703200Z'
+  name: EPD_202404
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/6069055c-0804-4bc1-b11b-1a178c9b9355/download/epd_202404.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202404.ZIP?response-content-disposition=filename%3DEPD_202404.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251028%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251028T182951Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ce597858afda93822e80557d3bc597153afb717a223e014357d786643faf59c2
+EPD_202405:
+  latest_download_date: '2025-10-28T18:33:06.849945Z'
+  name: EPD_202405
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/e96f3586-8bd1-48ed-8339-eb2cac120edd/download/epd_202405.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202405.ZIP?response-content-disposition=filename%3DEPD_202405.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251028%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251028T182951Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4eaef4708e3cdd51d1de14a728183a32dace6b16f43670a996107c02d69318f8
+EPD_202406:
+  latest_download_date: '2025-10-28T18:33:10.714399Z'
+  name: EPD_202406
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/1e8042eb-0c72-4df6-b067-33fbfad2173e/download/epd_202406.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202406.ZIP?response-content-disposition=filename%3DEPD_202406.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251028%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251028T182951Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e462ed347f4a45d02b33fe88f5c0e924b82546bf6972f6c67772a2b40b63573d
+EPD_202407:
+  latest_download_date: '2025-10-28T18:33:10.500778Z'
+  name: EPD_202407
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/0376c4d0-58fa-4c8a-853e-ff1b6efac386/download/epd_202407.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202407.ZIP?response-content-disposition=filename%3DEPD_202407.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251028%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251028T182951Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=89e4655cdab675c2178b59907624e1178884a27113b7a70654926a93400a1b1e
+EPD_202408:
+  latest_download_date: '2025-10-28T18:33:01.622912Z'
+  name: EPD_202408
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/5e499b44-768e-4613-bc67-b4495b52263e/download/epd_202408.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202408.ZIP?response-content-disposition=filename%3DEPD_202408.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251028%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251028T182951Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9711074e124efa7d30cc2c85191af355a782b9a914ce32bff3ea0b76b2ddc203
+EPD_202409:
+  latest_download_date: '2025-10-28T18:33:08.408575Z'
+  name: EPD_202409
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/edf85259-2b4f-45b8-a3e9-b88a723fed5c/download/epd_202409.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202409.ZIP?response-content-disposition=filename%3DEPD_202409.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251028%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251028T182951Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=055f3319be7834722d06fa8222cb4e129bda0c7428eec1d16799c839e349ed53
+EPD_202410:
+  latest_download_date: '2025-10-28T18:33:11.968340Z'
+  name: EPD_202410
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/383ab815-e615-4cbb-8726-018dbb6e528f/download/epd_202410.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202410.ZIP?response-content-disposition=filename%3DEPD_202410.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251028%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251028T182951Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8035355f5d7e1f9905c5d1ee1a0348db2fadb99c3e0c84fc5c3b127e86fdf75c
+EPD_202411:
+  latest_download_date: '2025-10-28T18:33:08.359651Z'
+  name: EPD_202411
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/b927fcd2-ecd8-42d7-a4d3-7428a111a374/download/epd_202411.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202411.ZIP?response-content-disposition=filename%3DEPD_202411.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251028%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251028T182951Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5ac64c05076c489f714eded699893a86612f4318c768e65f036d4f2bc1f254b8
+EPD_202412:
+  latest_download_date: '2025-10-28T18:33:10.211855Z'
+  name: EPD_202412
+  record_type: raw_epds
+  update_required: false
+  url: 
+    https://opendata.nhsbsa.net/dataset/65050ec0-5abd-48ce-989d-defc08ed837e/resource/e8504978-49ba-478b-83aa-62187dde9e69/download/epd_202412.csv
+  zip_url: 
+    https://83025b28472d6aa2bf5ae59f3724aa78.eu.r2.cloudflarestorage.com/dx-nhs-production/DATOPIAN_DATA/EPD_202412.ZIP?response-content-disposition=filename%3DEPD_202412.ZIP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1d532dd4244a61845b7ea3d94bcd4d9%2F20251028%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251028T182951Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3e6ac1f3fc68940c11ae22a2dfd8dd193aadf95f7b670d6f1d2c6362b58137bf

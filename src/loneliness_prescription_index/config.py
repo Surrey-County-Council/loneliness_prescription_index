@@ -8,3 +8,4 @@ logger.info(f"PROJ_ROOT path is: {PROJ_ROOT}")
 DATA_DIR = PROJ_ROOT / "data"
 WORKING_DIR = PROJ_ROOT / "working"
 OUTPUT_DIR = PROJ_ROOT / "output"
+TEST_DIR = PROJ_ROOT / "test"

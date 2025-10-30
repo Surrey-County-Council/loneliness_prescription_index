@@ -1,9 +1,11 @@
 # Data Related
-# ignore all csv, png and xlsx files for now
+# ignore all data files in any directory
 **.csv
 **.png
 **.xlsx
 **.odt
+**.parquet
+**.zip
 
 # Python-generated files
 __pycache__/
